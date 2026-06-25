@@ -19,10 +19,10 @@ This project analyzes employee attrition and workforce trends using Python, MySQ
 ## Dashboard KPIs
 - Total Employees: 1470
 - Attrition Count: 237
-- Attrition Rate: 16.1%
 - Active Employees: 1233
 - Average Age: 37.0
-- Average Monthly Income: 
+- 0Attrition Rate: 16.1%
+- Average Monthly Income: 6.5k 
 
 ## Dashboard Preview
 
