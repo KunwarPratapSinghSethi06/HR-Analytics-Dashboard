@@ -22,7 +22,7 @@ This project analyzes employee attrition and workforce trends using Python, MySQ
 - Active Employees: 1233
 - Average Age: 37.0
 - 0Attrition Rate: 16.1%
-- Average Monthly Income: 6.5k 
+- Average Monthly Income: 6.5K
 
 ## Dashboard Preview
 
