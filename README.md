@@ -21,6 +21,7 @@ This project analyzes employee attrition and workforce trends using Python, MySQ
 - Attrition Count: 237
 - Attrition Rate: 16.1%
 - Active Employees: 1233
+- Average Age: 37.0
 
 ## Dashboard Preview
 
