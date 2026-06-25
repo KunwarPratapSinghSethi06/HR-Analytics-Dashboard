@@ -19,7 +19,7 @@ This project analyzes employee attrition and workforce trends using Python, MySQ
 ## Dashboard KPIs
 - Total Employees: 1470
 - Attrition Count: 237
-- Attrition Rate: 16.12%
+- Attrition Rate: 16.1%
 - Active Employees: 1233
 
 ## Dashboard Preview
