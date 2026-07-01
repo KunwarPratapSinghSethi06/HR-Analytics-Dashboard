@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# Employee Attrition Analysis Dashboard
 
 ## Project Overview
 This project analyzes employee attrition and workforce trends using Python, MySQL, and Power BI. The goal is to identify key factors influencing employee turnover and provide actionable workforce insights through an interactive dashboard.
